@@ -16,3 +16,24 @@ yarn add ts-node-dev -D
 "scripts":{
      "dev": "ts-node-dev src/server.ts"
 },
+
+--tratamento de erros
+yarn add express-async-errors
+
+--qq url acessar a requisicao do errors
+yarn add cors
+ yarn add @types/cors -D --tipagens
+
+
+ --bd postgres
+ user: superuser
+ senha: superuser123
+port: 5432
+
+yarn add prisma
+yarn add @prisma/client
+
+npx prisma init
+
+--configurar o .env
+
