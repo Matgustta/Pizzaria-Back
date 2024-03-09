@@ -59,3 +59,7 @@ senha: MatheusSouzaPizza
 --instalar para acessa variáveis de ambiente
 yarn add dotenv
 
+
+caso queira acrescentar um atributo no request, tipo user id, é preciso adicionar um @types criando manualmente a tipagem comindex.d.ts
+e depois vai no tsconfig e habilita o typesroots
+
