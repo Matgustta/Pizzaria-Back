@@ -1,8 +1,7 @@
 
 
 # Pizzaria Backend em Node.js :pizza::computer:
-
-Bem-vindo ao repositório do sistema de backend para pizzarias que estão prontas para levar a eficiência da cozinha italiana tradicional para a nuvem! :cloud: Este projeto é uma solução de backend robusta e saborosa, projetada especificamente para atender às necessidades dinâmicas de pizzarias de todos os tamanhos.
+Bem-vindo ao repositório do sistema de backend para pizzarias que estão prontas para levar a eficiência da cozinha italiana tradicional para a nuvem! :cloud: Este projeto é uma solução de backend robusta e saborosa, projetada especificamente para atender aos pedidos realizados em pizzarias.
 
 ## Sobre o Projeto :notebook_with_decorative_cover:
 
@@ -39,4 +38,5 @@ Aqui está uma imagem divertida que pode complementar a descrição do seu proje
 ![Imagem representativa do backend de uma pizzaria](./src/img/imgPizzaria.webp)
 
 
-by: Matheus Souza
+Description by ChatGPT hahaha
+Project by: Matheus Souza
